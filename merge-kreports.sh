@@ -1,0 +1,1 @@
+/home/data4/mahrukh/data/helthy/combine_kreports.py -r /home/data4/mahrukh/data/PRJNA961076/CRC/kraken-output/SRR24315709_*.txt --no-headers --only-combined -o /home/data4/mahrukh/data/PRJNA961076/CRC/kraken-output/SRR24315709.txt
